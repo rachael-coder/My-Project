@@ -106,14 +106,14 @@ Closely track the return on investment (ROI) of your online marketing campaigns 
 
 How to improve online sales in the region:
 
-Market Research.
+i) Market Research.
 
 Conduct thorough market research to understand the specific needs and preferences of online shoppers in a specific region. 
   
-2,. Mobile Optimization.
+ii) Mobile Optimization.
 
-Given the high mobile penetration in many Asian countries, prioritize mobile optimization of your website and checkout process. 
+Given the high mobile penetration in many Asian countries, prioritize mobile optimization of your website and check out process. 
   
-3. Payment Options.
+iii) Payment Options.
 
 Offer a variety of payment options popular in Asia, including mobile wallets and local payment gateways.
