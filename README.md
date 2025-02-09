@@ -118,6 +118,6 @@ iii) Payment Options.
 
 Offer a variety of payment options popular in Asia, including mobile wallets and local payment gateways.
 
-My tableau dashboard is below
+My tableau dashboard link is below
 
 https://public.tableau.com/app/profile/rachael.nyawira/viz/MyProject_17387829402160/Dashboard1
